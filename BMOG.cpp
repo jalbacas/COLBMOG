@@ -64,7 +64,7 @@
 
  
  //Author: Isabel Martins
- //Date: 10-October-2016, Version:1.0
+ //Date: 10-Jan-2017, Version:1.1
  //adapted from OpenCV MOG2 implementation
 */
  
